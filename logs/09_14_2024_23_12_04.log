@@ -1,0 +1,13 @@
+[2024-09-14 23:12:12,350] 18 root - INFO - data loading started...
+[2024-09-14 23:12:13,359] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2024-09-14 23:12:14,017] 21 root - INFO - data loading completed...
+[2024-09-14 23:12:15,779] 34 root - INFO - 
+[2024-09-14 23:12:16,048] 40 root - INFO - 
+[2024-09-14 23:12:19,086] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+[2024-09-14 23:12:23,005] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+[2024-09-14 23:12:25,030] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [Errno 64] Host is down
+[2024-09-14 23:12:25,030] 338 google.auth._default - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+[2024-09-14 23:16:28,266] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+[2024-09-14 23:16:32,375] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+[2024-09-14 23:16:34,299] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [Errno 64] Host is down
+[2024-09-14 23:16:34,300] 338 google.auth._default - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
